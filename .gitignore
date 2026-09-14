@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (bade files, GitHub pe nahi chahiye)
+backend/data/raw/*.csv
+backend/data/raw/*.zip
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
